@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Ammar
 - 👀 I’m interested in Math and coding 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science, 2nd year student 
 - 💞️ I’m looking to collaborate on solving problems 
 - 📫 How to reach me: Amir.Ammar.Work@gmail.com
 
